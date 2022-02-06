@@ -3,8 +3,11 @@ Hi there, I'm Jake 👋
 I am a fullstack Software Engineer with a passion for problem solving.
 
 pronouns: "he" | "him"
+
 location: "Denver"
+
 askMeAbout:  "snowboarding", "hiking", "poker", "computers"
+
 code: Javascript, React, HTML, CSS, Ruby, Rails
 
 
